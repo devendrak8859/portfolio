@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+README.md
+Dev-portfolio
+docker-compose.yml
+Dockerfile
+.dockerignore
+*.md
