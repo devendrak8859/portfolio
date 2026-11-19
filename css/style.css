@@ -1576,7 +1576,9 @@ body::after {
     :root {
         --nav-height: 60px;
     }
-
+    .logo {
+        font-size: 1.1rem;
+    }
     .navbar .container {
         gap: 0.5rem;
     }
@@ -1678,7 +1680,9 @@ body::after {
     .container {
         padding: 0 1rem;
     }
-
+    .logo {
+        font-size: 1.1rem;
+    }
     .hero {
         padding: calc(var(--nav-height) + 2rem) 1rem 2rem;
     }
